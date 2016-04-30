@@ -7,15 +7,15 @@
   "logo": "http://52.33.231.146/bot-logo.png",
   "env": {
     "SMOOCH_APP_TOKEN": {
-      "description": "bapuro0ueovn99g9nepvr2kwx",
+      "description": "Your Smooch app token which is used to initialize the web widget.",
       "required": true
     },
     "SMOOCH_KEY_ID": {
-      "description": "app_5724f566f3f16ce400c516db",
+      "description": "Your Smooch key ID, used to talk to the Smooch API",
       "required": true
     },
     "SMOOCH_SECRET": {
-      "description": "o00QH9yq9PNComcuEAR0UOPa",
+      "description": "Your Smooch secret, used to talk to the Smooch API",
       "required": true
     }
   }
