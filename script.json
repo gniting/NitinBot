@@ -19,7 +19,7 @@
     "OK": "Great",
     "SURE": "Great",
     "HEY NITIN": "Hey",
-    "NITIN?": "",
+    "NITIN?": "Hey",
     "HMM": "Thinking eh?",
     "HEY NITIN!": "Hi",
     "HI NITIN": "Hi",
@@ -53,8 +53,8 @@
     "WHATS YOUR NAME": "![I'm NitinBot](http://www.nuttinlogs.com/assets/images/bot.png)",
     "WHATS YOUR NAME?": "![I'm NitinBot](http://www.nuttinlogs.com/assets/images/bot.png)",
     "THANKS": "You're welcome",
-    "HOW OLD ARE YOU": "I'm a week old.",
-    "HOW OLD ARE YOU?": "I'm a week old.",
+    "HOW OLD ARE YOU": "About a week or so.",
+    "HOW OLD ARE YOU?": "About a week or so.",
     "THANK YOU": "You're welcome",
     "WHO ARE YOU?": "![I'm NitinBot](http://www.nuttinlogs.com/assets/images/bot.png)",
     "WHO ARE YOU": "![I'm NitinBot](http://www.nuttinlogs.com/assets/images/bot.png)",
@@ -87,5 +87,4 @@
     "NITINBOT": "That's my hashtag – use it when talking about me on sites like TWITTER. 😎",
     "CONNECT ME": "",
     "DISCONNECT": "Roger doger, NitinBot is back."
-    
 }
