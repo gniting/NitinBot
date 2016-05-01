@@ -1,6 +1,6 @@
 {
     "BOT": "Hiya!\nI’m a personal bot for Nitin.\nLet's dig in? %[Learn about Nitin](postback:learn_about_nitin) %[Random Fact](postback:one)",
-    "ONE": "It took 3 commits to get me to come to life but 22 to get me to become chatty!",
+    "RANDOM FACT": "It took 3 commits to get me to come to life but 22 to get me to become chatty!",
     "TWO": "",
     "THREE": "",
     "FOUR": "",
