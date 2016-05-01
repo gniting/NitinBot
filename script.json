@@ -1,6 +1,6 @@
 {
     "BOT": "Hi!\nI’m Nitin's personal bot.\n!%[What is Nitin reading these days?](postback:current_reading)",
-    "CURRENT_READING": "Blah!"
+    "CURRENT_READING": "Blah!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger dodger, NitinBot is back."
 }
