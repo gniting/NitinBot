@@ -10,7 +10,7 @@
     "I'M DONE FOR NOW": "If you change your mind feel free to come back! You can always say 'Nitin' to start chatting again or maybe you want to talk directly with Nitin... %[Connect with Nitin](postback:connect_me)",
     "MORE ON KODING": "Koding enables 'Developer Enviornment Automation'. Skip all the setup and starting coding!\nThe company is based in San Francisco, has over 1.5M users and has raised $20M in venture funding. %[Koding on Crunchbase](https://www.crunchbase.com/organization/koding) %[Learn About Nitin](postback:learn_about_nitin)",
     "CONNECT WITH NITIN": "Awesome, I love making intro's.\nYou can email Nitin or connect with him live via chat. %[Email Nitin](mailto:gniting@gmail.com) %[Connect Me](connect_live)",
-    "MENU": "Ok, here's other stuff to check out. %[Education](postback:education) %[Career](postback:career)\nOr maybe you want interesting nuggets or to talk directly with Nitin... %[One random fact!](postback:random_fact) %[Connect with Nitin](postback:connect_me)",
+    "MENU": "Ok, here's other stuff to check out. %[Education](postback:education) %[Career](postback:career)\nOr maybe you want interesting nuggets or to talk directly with Nitin... %[One random fact!](postback:random_fact) %[Connect with Nitin](postback:connect_me_live)",
     "IT'S BEEN FUN!": "Cool! Glad you liked talking to me!",
     "FUCK YOU": "How rude!",
     "I LOVE YOU": "I love you too!",
