@@ -1,6 +1,6 @@
 {
     "BOT": "Hiya!\nI’m a personal bot for Nitin.\nI can tell you a bunch of stuff about him.\nLet's dig in? %[Learn about Nitin](postback:learn_about_nitin) %[Random Fact](postback:one)",
-    "LEARN ABOUT NITIN": "Let me know what’s interesting to you. %[Education](postback:education) %[Career](postback:career) %[Interests](postback:interests)\nWhen you're ready you can always say 'connect' to talk to Nitin. %[Connect with Nitin](postback:connect_me)",
+    "LEARN ABOUT NITIN": "Let me know what’s interesting to you. %[Education](postback:education) %[Career](postback:career) %[Interests](postback:interests)\nWhen you're ready you can always connect with Nitin over email to call him! %[Connect with Nitin](postback:connect_me)",
     "RANDOM FACT": "It took 3 commits to bring me to life but 22 to get me to become chatty! %[Another Fact](postback:fact_two)  %[Learn about Nitin](postback:learn_about_nitin)" ,
     "ANOTHER FACT": "I run on Heorku and am built using Node with a lot of help from Smooch.io (those guys rock). %[More facts plz!](postback:more_facts_plz) %[Learn About Nitin](postback:learn_about_nitin) ",
     "MORE FACTS PLZ!": "You want more? Aren't you the curious cat!\nOK, this is the last one so I'll make it a good one. Nitin has led quite an active sporting life. He's broken his bones on more than 17 different occassions! OMG! %[Learn About Nitin](postback:learn_about_nitin)",
@@ -9,7 +9,7 @@
     "INTERESTS": "We're not just 'all work' now are we!\nNitin likes photography, reading books and taking apart (and then fixing) things.\nThere's a drone sitting in the garage currently undergoing surgery! He also really likes long rides on his road bike.\nMore recent interests include all things FinTech, the Blockchain - its impact on the setup of the global financial engine and Bots :)! %[Current Reading](http://www.amazon.com/Debt-First-5-000-Years/dp/1933633867/) %[Flickr!](https://www.flickr.com/photos/nuttin)\nWhat should we talk about next? %[Education](postback:education) %[Career](postback:career) %[I'm done for now](postback:done)",
     "I'M DONE FOR NOW": "If you change your mind feel free to come back! You can always say 'Nitin' to start chatting again or maybe you want to talk directly with Nitin... %[Connect with Nitin](postback:connect_me)",
     "MORE ON KODING": "Koding enables 'Developer Enviornment Automation'. Skip all the setup and starting coding!\nThe company is based in San Francisco, has over 1.5M users and has raised $20M in venture funding. %[Koding on Crunchbase](https://www.crunchbase.com/organization/koding) %[Learn About Nitin](postback:learn_about_nitin)",
-    "CONNECT WITH NITIN": "Awesome, I love making intro's.\nYou can email Nitin using the button below. %[Email Nitin](mailto:gniting@gmail.com)",
+    "CONNECT WITH NITIN": "Awesome, I love making intro's.\nYou can email Nitin using the button below or call him now. %[Email Nitin](mailto:gniting@gmail.com) %[Call Nitin](tel:+1-650-887-4617)",
     "MENU": "Ok, here's other stuff to check out. %[Education](postback:education) %[Career](postback:career)\nOr maybe you want interesting nuggets or to talk directly with Nitin... %[One random fact!](postback:random_fact) %[Connect with Nitin](postback:connect_me_live)",
     "IT'S BEEN FUN!": "Cool! Glad you liked talking to me!",
     "FUCK YOU": "How rude!",
