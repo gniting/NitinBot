@@ -1,5 +1,6 @@
 {
     "BOT": "Hiya!\nI’m a personal bot for Nitin.\nI can tell you a bunch of stuff about him.\nLet's dig in? %[Learn about Nitin](postback:learn_about_nitin) %[Random Fact](postback:one)",
+    "LET'S GO!": "Let me know what’s interesting to you. %[Education](postback:education) %[Career](postback:career) %[Interests](postback:interests) %[Random Fact](postback:one)",
     "LEARN ABOUT NITIN": "Let me know what’s interesting to you. %[Education](postback:education) %[Career](postback:career) %[Interests](postback:interests)\nWhen you're ready you can always connect with Nitin over email or call him now! %[Connect with Nitin](postback:connect_me)",
     "RANDOM FACT": "It took 3 commits to bring me to life but 22 to get me to become chatty! %[Another Fact](postback:fact_two)  %[Learn about Nitin](postback:learn_about_nitin)" ,
     "ANOTHER FACT": "I run on Heorku and am built using Node with a lot of help from Smooch.io (those guys rock). %[More facts plz!](postback:more_facts_plz) %[Learn About Nitin](postback:learn_about_nitin) ",
